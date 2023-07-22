@@ -18,7 +18,8 @@
   "license": "MIT",
   "main": "./dist/nord.css",
   "files": [
-    "dist/nord.css"
+    "dist/nord.css",
+    "src"
   ],
   "keywords": [
     "nord",
